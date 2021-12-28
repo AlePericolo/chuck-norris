@@ -6,6 +6,8 @@
 $ git clone https://github.com/AlePericolo/chuck-norris.git
 $ cd chuck-norris/client
 $ npm i
+$ cd chuck-norris/server
+$ npm i
 ```
 ## Client Dev Script
 
